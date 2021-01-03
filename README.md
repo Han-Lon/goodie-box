@@ -27,3 +27,5 @@ An Arduino-based solution to preventing multiple pets from eating out of each ot
 - Design 3D printable mounts for RFID reader and Arduino components
 - Build the dang box
 - Use cheaper Arduino Nano boards instead of an Uno R3
+- Maybe use a speaker instead of a buzzer to play custom sound effects
+  - If not, definitely at least use the larger buzzer
