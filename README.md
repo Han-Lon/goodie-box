@@ -6,16 +6,16 @@ An Arduino-based solution to preventing multiple pets from eating out of each ot
 
 ## Pin Layout (until I can find a higher rez Mifare component image)
 ### Mifare RFID reader connections
-SDA <--> Digital 10 \n
-SCK <--> Digital 13 \n
-MOSI <--> Digital 11 \n
-MISO <--> Digital 12 \n
-IRQ -> unconnected \n
-GND <--> GND (on Arduino) \n
-RST <--> Digital 9 \n
+SDA <--> Digital 10  \n
+SCK <--> Digital 13  \n
+MOSI <--> Digital 11  \n
+MISO <--> Digital 12  \n
+IRQ -> unconnected  \n
+GND <--> GND (on Arduino)  \n
+RST <--> Digital 9  \n
 3.3V <--> 3.3V (DON'T CONNECT TO 5V)
 ### Passive buzzer connections
-Negative strip/column on breadboard <--> GND \n
+Negative strip/column on breadboard <--> GND  \n
 Positive terminal on passive buzzer <--> Digital 8  
 
 ## Requirements
