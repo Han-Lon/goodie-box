@@ -9,3 +9,4 @@ An Arduino-based solution to preventing multiple pets from eating out of each ot
 - Rewrite using ID12LA RFID reader instead of MFRC522
 - Design 3D printable mounts for RFID reader and Arduino components
 - Build the dang box
+- Use cheaper Arduino Nano boards instead of an Uno R3
